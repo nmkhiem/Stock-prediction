@@ -1,9 +1,9 @@
 # Stock Prediction
 Nowadays, forecasting stock prices and volatility is crucial for investors, traders, and financial analysts. In this repo, I use a variety of methods, from traditional statistical models (ARIMA, GARCH), Machine Learning algorithms (Gaussian Process) to Deep Learning model Long Short-Term Memory (LSTM).
 
-Link survey: https://arxiv.org/pdf/2202.07125
-
 In the future, I am aiming to explore models capable of long-term prediction such as Transformer and its variants:
+
+Link survey: https://arxiv.org/pdf/2202.07125
 
 - Convolutional Attention on Postion Encoding (2020): https://arxiv.org/pdf/1907.00235
 - Informer (2020): https://arxiv.org/pdf/2012.07436
